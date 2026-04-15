@@ -1,72 +1,92 @@
 <h1 align="center">👨‍💻 João Vitor Dreis</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Bem-vindo+ao+meu+GitHub!;Software+Engineering+Student;Futuro+Desenvolvedor+Full+Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Future+Full+Stack+Developer;Building+real+solutions+with+code" />
 </p>
 
 <p align="center">
-  Estudante de Engenharia de Software | Desenvolvedor em formação | Apaixonado por tecnologia
+  Software Engineering Student @ UEPA | Tech Enthusiast | Developer in Progress
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🧠 About Me
 
-🎓 Estudante de **Engenharia de Software pela UEPA**  
-💻 Técnico em Informática pelo **IFPA**  
-📚 Focado em evolução contínua na área de desenvolvimento  
-⚡ Interesse em desenvolvimento web, lógica e construção de sistemas  
+Hey! I'm João Vitor, a Software Engineering student at UEPA and a Computer Technician graduated from IFPA.
 
-Atualmente, estou aprofundando meus conhecimentos através de projetos práticos, buscando sempre escrever código limpo, eficiente e escalável.
+My journey in technology is driven by curiosity and the desire to build real solutions. I focus on developing solid programming foundations while exploring modern software development practices.
 
----
+Currently, I am focused on:
 
-## 🧠 Foco atual
-
-- 📌 Lógica de programação e estrutura de dados  
-- 🌐 Desenvolvimento web (front-end e back-end)  
-- ⚙️ Boas práticas e organização de código  
+- Writing clean and maintainable code  
+- Strengthening logic and problem-solving skills  
+- Building practical projects to simulate real-world scenarios  
 
 ---
 
-## 🛠️ Tecnologias
+## 🚀 Current Focus
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+- 🌐 Web Development (Front-end & Back-end)  
+- ⚙️ Software Fundamentals & Architecture (beginner level)  
+- 🧩 Problem Solving & Logical Thinking  
 
 ---
 
-## 📊 Estatísticas
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+</p>
+
+### ⚙️ Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/jotavedreis">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotavedreis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotavedreis&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotavedreis&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotavedreis&layout=compact&theme=tokyonight"/>
   </a>
 </div>
 
 ---
 
-## 🔥 Em desenvolvimento
+## 🔥 Goals
 
-🚧 Em breve: projetos completos demonstrando minhas habilidades em desenvolvimento de software.
+My goal is to become a **Full Stack Developer**, capable of building scalable, efficient, and well-structured systems.
+
+I aim to evolve from fundamentals to advanced topics like:
+
+- Software Architecture  
+- APIs and backend systems  
+- Scalable applications  
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
-<p align="left">
-  <a href="https://github.com/jotavedreis" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white">
+<p>
+  <a href="https://github.com/jotavedreis">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💡 Mentalidade
+## 💡 Mindset
 
-> "Disciplina supera motivação. Evolução constante é o objetivo."
+> "Consistency beats intensity. I build, learn, and evolve every day."
