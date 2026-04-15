@@ -1,92 +1,18 @@
-<h1 align="center">👨‍💻 João Vitor Dreis</h1>
+# 💫 About Me:
+I am a Software Engineering student at UEPA and a Computer Technician from IFPA, with a strong interest in software development.<br><br>My focus is on building efficient and well-structured solutions, always seeking to improve my programming skills and keep up with trends in the technology field.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Future+Full+Stack+Developer;Building+real+solutions+with+code" />
-</p>
 
-<p align="center">
-  Software Engineering Student @ UEPA | Tech Enthusiast | Developer in Progress
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/JotaVe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jotavedreis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joaovitor-reis) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:j.vitorfdosreis@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jotavedreis&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=jotavedreis&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jotavedreis&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🧠 About Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Hey! I'm João Vitor, a Software Engineering student at UEPA and a Computer Technician graduated from IFPA.
-
-My journey in technology is driven by curiosity and the desire to build real solutions. I focus on developing solid programming foundations while exploring modern software development practices.
-
-Currently, I am focused on:
-
-- Writing clean and maintainable code  
-- Strengthening logic and problem-solving skills  
-- Building practical projects to simulate real-world scenarios  
-
----
-
-## 🚀 Current Focus
-
-- 🌐 Web Development (Front-end & Back-end)  
-- ⚙️ Software Fundamentals & Architecture (beginner level)  
-- 🧩 Problem Solving & Logical Thinking  
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-</p>
-
-### 🌐 Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-</p>
-
-### ⚙️ Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/jotavedreis">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotavedreis&show_icons=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotavedreis&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
-## 🔥 Goals
-
-My goal is to become a **Full Stack Developer**, capable of building scalable, efficient, and well-structured systems.
-
-I aim to evolve from fundamentals to advanced topics like:
-
-- Software Architecture  
-- APIs and backend systems  
-- Scalable applications  
-
----
-
-## 📫 Contact
-
-<p>
-  <a href="https://github.com/jotavedreis">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 💡 Mindset
-
-> "Consistency beats intensity. I build, learn, and evolve every day."
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
